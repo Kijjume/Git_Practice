@@ -1,10 +1,1 @@
- Volume in drive C is System
- Volume Serial Number is 401B-502B
-
- Directory of C:\Users\Kijju\Desktop\MyGitProject
-
-13/11/2019  04:58 PM    <DIR>          .
-13/11/2019  04:58 PM    <DIR>          ..
-13/11/2019  04:58 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  33,652,109,312 bytes free
+change 1
